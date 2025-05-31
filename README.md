@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LA-Singular-Value-Decomposition
 
 This project demonstrates the application of Singular Value Decomposition (SVD) in image compression using Python. By decomposing an image into its singular values and vectors, we can reconstruct approximations of the original image with varying levels of detail—balancing compression efficiency and image quality.
@@ -70,4 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to fork, experiment, and expand on this project!
-=======
